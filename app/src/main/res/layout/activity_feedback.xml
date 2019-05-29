@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:background="#f7e18b"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FeedbackActivity">
+
+    <Button
+        android:id="@+id/btncall"
+        android:layout_width="205dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="154dp"
+        android:background="#f9f3f3"
+        android:text="Call 0728986790"
+        tools:layout_editor_absoluteX="75dp"
+        tools:layout_editor_absoluteY="141dp" />
+    01/0918/4099
+
+    <Button
+        android:id="@+id/btnsms"
+        android:layout_width="216dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="223dp"
+        android:layout_marginEnd="165dp"
+        android:background="#f9f3f3"
+        android:text="Sms"
+        tools:layout_editor_absoluteX="81dp"
+        tools:layout_editor_absoluteY="212dp" />
+
+    <Button
+        android:id="@+id/btnemail"
+        android:layout_width="218dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/tvviewone"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="-42dp"
+        android:layout_marginBottom="161dp"
+        android:background="#f9f3f3"
+        android:text="Email"
+        tools:layout_editor_absoluteX="86dp"
+        tools:layout_editor_absoluteY="306dp" />
+
+    <Button
+        android:id="@+id/btnsocial"
+        android:layout_width="208dp"
+        android:layout_height="38dp"
+        android:layout_alignStart="@+id/btnmpesa"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="412dp"
+        android:background="#f9f3f3"
+        android:text="Share "
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="394dp" />
+
+    <Button
+        android:id="@+id/btnmpesa"
+        android:layout_width="123dp"
+        android:layout_height="53dp"
+        android:layout_alignEnd="@+id/tvviewone"
+        android:layout_alignRight="@+id/tvviewone"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="74dp"
+        android:layout_marginEnd="-124dp"
+        android:background="#f9f3f3"
+        android:text="Mpesa"
+        tools:layout_editor_absoluteX="145dp"
+        tools:layout_editor_absoluteY="61dp" />
+
+    <Button
+
+        android:id="@+id/btnhome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="292dp"
+        android:layout_marginLeft="292dp"
+        android:layout_marginBottom="454dp"
+        android:text="Go Back" />
+</RelativeLayout>

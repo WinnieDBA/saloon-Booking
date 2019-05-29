@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:background="#3e3d3d"
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+ <LinearLayout
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:orientation="vertical">
+     <ImageView
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:src="@drawable/plaitedbaby" />
+     <ImageView
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:src="@drawable/bahair2" />
+     <ImageView
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:src="@drawable/corn" />
+     <ImageView
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:src="@drawable/croche2" />
+     <ImageView
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:src="@drawable/locks" />
+     <ImageView
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:src="@drawable/braidone" />
+
+
+
+
+ </LinearLayout>
+</ScrollView>

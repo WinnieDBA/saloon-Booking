@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bookings</string>
+    <string name="title_activity_maintab">MaintabActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">VARIOUS SECTIONS</string>
+    <string name="tab_text_2">SAMPLES OF SERVICES</string>
+    <string name="tab_text_3">PRICES</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

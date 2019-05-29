@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="#3e3d3d"
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <Button
+        android:id="@+id/btnnext"
+        android:layout_width="match_parent"
+        android:layout_height="111dp"
+        android:background="#aaf976"
+        android:fontFamily="cursive"
+        android:text="book an appointment Here"
+        android:textAlignment="center"
+
+        android:textColor="#ef60c9"
+        android:textSize="30sp"
+
+
+        android:textStyle="italic" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/cool" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#69c0ec"
+        android:textStyle="italic"
+        android:fontFamily="cursive"
+        android:textColor="#8bf960"
+        android:text="treatment area" />
+
+    <ImageView
+        android:src="@drawable/babies2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <Button
+        android:id="@+id/btnnextone"
+        android:background="#e985c9"
+        android:textStyle="italic"
+        android:fontFamily="cursive"
+        android:textColor="#79f43c"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+
+        android:text="babies section one" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/veraone"/>
+    <Button
+        android:id="@+id/btnnexttwo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#71bff4"
+        android:textStyle="italic"
+
+
+        android:fontFamily="cursive"
+
+        android:textColor="#393737"
+        android:text="Setting Section" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/babies3"/>
+    <Button
+        android:textColor="#05df9a"
+        android:id="@+id/btnnexteight"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#a38bda"
+        android:textStyle="italic"
+        android:fontFamily="cursive"
+
+
+        android:text="BABY SECTION" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+
+        android:src="@drawable/cooltowels"/>
+    <Button
+
+        android:id="@+id/btnnexnine"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#9df2e1"
+        android:textStyle="italic"
+        android:fontFamily="cursive"
+        android:textColor="#ed3fb3"
+        android:text="cleaning section" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/vera11"/>
+    <Button
+        android:id="@+id/btnnextfive"
+        android:background="#81a32b"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#0bd6f1"
+        android:textStyle="italic"
+        android:fontFamily="cursive"
+        android:text="Blow Dry Section" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/main6"/>
+    <Button
+        android:id="@+id/btnnextx"
+        android:background="#e0fd94"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#cc7333"
+        android:fontFamily="cursive"
+        android:textStyle="italic"
+        android:text="Blow Dry Section" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/tangarine"/>
+    <Button
+        android:id="@+id/btnnextten"
+        android:background="#e0fd94"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#cc7333"
+        android:textStyle="italic"
+        android:fontFamily="cursive"
+        android:text="Blow Dry Section" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/vera9"/>
+
+
+
+
+
+</LinearLayout>
+
+
+
+
+</ScrollView>
